@@ -6,6 +6,7 @@ public class Hi {
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("this is haritha");
+		System.out.println("second commit");
 	}
 
 }
